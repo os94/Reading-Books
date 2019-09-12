@@ -11,5 +11,5 @@
 
 - [SQL 첫걸음](https://github.com/os94/Reading-Books/blob/master/docs/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
 
-- [자바8 인 액션](https://www.notion.so/os94/Java-8-in-Action-91a01d1fe294421d81931a67331997e5)
+- [자바8 인 액션](https://github.com/os94/Reading-Books/tree/master/docs/Java%208%20in%20Action)
 
