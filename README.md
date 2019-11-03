@@ -6,6 +6,8 @@
 
 - [코딩을 지탱하는 기술](https://github.com/os94/Reading-Books/blob/master/docs/%EC%BD%94%EB%94%A9%EC%9D%84%20%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%88%A0.md)
 
+- [객체지향의 사실과 오해](https://github.com/os94/Reading-Books/blob/master/docs/객체지향의%20사실과%20오해/객체지향의%20사실과%20오해.md)
+
 - [프로가 되기 위한 웹기술 입문](https://github.com/os94/Reading-Books/blob/master/docs/%ED%94%84%EB%A1%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%9B%B9%EA%B8%B0%EC%88%A0%20%EC%9E%85%EB%AC%B8/%ED%94%84%EB%A1%9C%EA%B0%80%20%EB%90%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EC%9B%B9%EA%B8%B0%EC%88%A0%20%EC%9E%85%EB%AC%B8.md)
 
 - [SQL 첫걸음](https://github.com/os94/Reading-Books/blob/master/docs/SQL%20%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
