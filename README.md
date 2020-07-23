@@ -15,3 +15,10 @@
 - [자바8 인 액션](https://github.com/os94/Reading-Books/tree/master/docs/Java%208%20in%20Action)
 
 - 토비의 스프링 1권
+
+- 자바 ORM 표준 JPA 프로그래밍
+
+- 함께 자라기
+
+- 리팩터링
+
