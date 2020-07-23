@@ -16,9 +16,9 @@
 
 - 토비의 스프링 1권
 
-- 자바 ORM 표준 JPA 프로그래밍
+- [자바 ORM 표준 JPA 프로그래밍](https://github.com/os94/Reading-Books/blob/master/docs/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20(%EA%B9%80%EC%98%81%ED%95%9C)/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20(%EA%B9%80%EC%98%81%ED%95%9C).md)
 
 - 함께 자라기
 
-- 리팩터링
+- [리팩터링](https://github.com/os94/Reading-Books/blob/master/docs/Refactoring_Martin_Fowler_2E.md)
 
